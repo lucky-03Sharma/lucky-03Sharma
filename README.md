@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="Fareed95" /> 
+  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="lucky-03Sharma" /> 
 </p>
 
  ### Prefixes :
@@ -47,7 +47,7 @@
 
 </p>
 <p align = "center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-03Sharma&theme=merko" alt="Fareed95 github readme activity graph" width="90%" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-03Sharma&theme=merko" alt="lucky-03Sharma github readme activity graph" width="90%" />
 
 <p align="center">
   <img 
