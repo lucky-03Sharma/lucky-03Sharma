@@ -30,7 +30,7 @@
 <p align="left">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lucky-sharma-5321/" target="_blank">
+  <a href="www.linkedin.com/in/lucky-sharma-532165351/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" />
   </a>
 
