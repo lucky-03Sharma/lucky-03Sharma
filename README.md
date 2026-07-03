@@ -7,16 +7,6 @@
 <h1 align="center">Hii 👋, I'm Lucky Sharma</h1>
 <h3 align="center">Software Developer || Creating, not just coding.</h3>
 
- ### Prefixes :
- - Web and App Developer
- - Backend Developer
- - Devops Engineer
- - Data Scientist
- - Gen ai Developer
- - ML developer
- - Software Engineer
-
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> 
