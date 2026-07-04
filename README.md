@@ -42,7 +42,6 @@
 
   <!-- Gmail -->
   <a href="mailto:luckykunjbiharisharma@gmail.com">
-   <a href="mailto:sharma0306lucky@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" />
   </a>
 
