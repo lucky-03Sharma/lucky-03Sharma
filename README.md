@@ -1,62 +1,131 @@
+<!--
+© 2026 Lucky Sharma
+All Rights Reserved
+-->
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucky-03Sharma/lucky-03Sharma/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucky-03Sharma/lucky-03Sharma/output/github-contribution-grid-snake.svg" />
+  <img width="1000" alt="snake" src="https://raw.githubusercontent.com/lucky-03Sharma/lucky-03Sharma/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<h1 align="center">Hii 👋, I'm Lucky Sharma</h1>
-<h3 align="center">Software Developer || Creating, not just coding.</h3>
+# Hi, I'm Lucky Sharma 👋
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Creating%2C+not+just+coding.;Web+Developer+%7C+Backend+Developer;Data+Scientist;Digital+Forensics+Practitioner" alt="Typing SVG" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Fareed95&label=Profile%20views&color=0e75b6&style=flat" alt="lucky-03Sharma" /> 
-</p>
+<img src="https://komarev.com/ghpvc/?username=lucky-03Sharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
- ### Prefixes :
- - Web Developer
- - Backend Developer
- - Data Scientist
- - Software Engineer
- - Digital Forensics Practitioner
+</div>
 
+<br />
 
-   
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
+### 🚀 About Me
 
+I'm someone who believes in **creating, not just coding** — building things that solve real problems, not just writing lines that compile.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🌐 **Web Developer** — crafting seamless front-to-back experiences
+- ⚙️ **Backend Developer** — building the engines behind the scenes
+- 📊 **Data Scientist** — turning raw data into real insight
+- 🔍 **Digital Forensics Practitioner** — uncovering the truth in the bits
 
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/lucky-sharma-532165351/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" />
-  </a>
+</td>
+<td width="40%">
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/luckyy._.s" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
-  </a>
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="100%" alt="Coding in peace" />
 
+</td>
+</tr>
+</table>
 
-  <!-- Gmail -->
-  <a href="mailto:luckykunjbiharisharma@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" width="35" />
-  </a>
+## Skill Set:
 
-</p>
-<p align = "center">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-03Sharma&theme=merko" alt="lucky-03Sharma github readme activity graph" width="90%" />
+<table><tr><td valign="top" width="25%">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lucky-03Sharma&show_icons=true&theme=vision-friendly-dark&hide_border=true" 
-    height="150"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=lucky-03Sharma&theme=highcontrast&hide_border=true&border_radius=5" 
-    height="150"
-  />
-</p>
+### Frontend
+<a href="https://github.com/lucky-03Sharma">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&perline=4" />
+</div>
+</a>
 
+</td><td valign="top" width="25%">
+
+### Languages
+<a href="https://github.com/lucky-03Sharma">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,java,python&perline=4" />
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+
+### Backend & Tools
+<a href="https://github.com/lucky-03Sharma">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=nodejs,express,git&perline=4" />
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+
+### Databases & Data
+<a href="https://github.com/lucky-03Sharma">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,docker&perline=4" />
+</div>
+</a>
+
+</td></tr></table>
+
+<br />
+
+<div align="center">
+
+### 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/lucky-sharma-5321/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/luckyy._.s" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" alt="Instagram" />
+</a>&nbsp;&nbsp;
+<a href="mailto:luckykunjbiharisharma@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" width="40" alt="Gmail" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucky-03Sharma&theme=react-dark" alt="GitHub activity graph" width="90%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucky-03Sharma&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=lucky-03Sharma&theme=radical&hide_border=true&border_radius=5" height="165" alt="GitHub streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>© 2026 Lucky Sharma. All rights reserved.</sub>
+
+</div>
