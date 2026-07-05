@@ -5,12 +5,6 @@ All Rights Reserved
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucky-03Sharma/lucky-03Sharma/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucky-03Sharma/lucky-03Sharma/output/github-contribution-grid-snake.svg" />
-  <img width="1000" alt="snake" src="https://raw.githubusercontent.com/lucky-03Sharma/lucky-03Sharma/output/github-contribution-grid-snake.svg" />
-</picture>
-
 # Hi, I'm Lucky Sharma 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Creating%2C+not+just+coding.;Web+Developer+%7C+Backend+Developer;Data+Scientist;Digital+Forensics+Practitioner" alt="Typing SVG" />
@@ -37,7 +31,7 @@ I'm someone who believes in **creating, not just coding** — building things th
 </td>
 <td width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="100%" alt="Coding in peace" />
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100%" alt="She codes" />
 
 </td>
 </tr>
